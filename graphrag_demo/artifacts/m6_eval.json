@@ -1,0 +1,379 @@
+{
+  "generated_at": "2026-10-24T07:17:30.983228+00:00",
+  "summary": {
+    "questions": 9,
+    "baseline_hit1": 0.4444,
+    "baseline_hit3": 0.6667,
+    "graphrag_hit1": 0.7778,
+    "graphrag_hit3": 0.7778,
+    "baseline_abstain_correct": 0.7778,
+    "graphrag_abstain_correct": 1.0,
+    "baseline_avg_ms": 1.35,
+    "graphrag_avg_ms": 4.47,
+    "global_questions": 3,
+    "baseline_global_coverage": 3.67,
+    "graphrag_global_coverage": 6.33
+  },
+  "rows": [
+    {
+      "id": "C02",
+      "title": "FAQ only",
+      "question": "What are your opening hours on Saturday?",
+      "expected_section": "Opening hours",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "Opening hours",
+          "Cancellation and no-show fees"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.3739
+      },
+      "graphrag": {
+        "mode": "local",
+        "intent": "schedule",
+        "sections": [
+          "Opening hours"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 1.7934
+      }
+    },
+    {
+      "id": "C02",
+      "title": "FAQ only",
+      "question": "Where can I park when I drop off my car?",
+      "expected_section": "Location and parking",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "What to bring",
+          "Servicing packages",
+          "Location and parking"
+        ],
+        "hit1": false,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.4891
+      },
+      "graphrag": {
+        "mode": "hybrid",
+        "intent": "schedule",
+        "sections": [
+          "Location and parking",
+          "Courtesy car"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.592
+      }
+    },
+    {
+      "id": "C02",
+      "title": "FAQ only",
+      "question": "Do you accept PayNow?",
+      "expected_section": "Payment methods",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "Payment methods",
+          "Opening hours"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.2707
+      },
+      "graphrag": {
+        "mode": "local",
+        "intent": "policy",
+        "sections": [
+          "Payment methods"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 1.1515
+      }
+    },
+    {
+      "id": "C03",
+      "title": "Synonym trap",
+      "question": "How much does a maintenance cost for my car?",
+      "expected_section": "Servicing packages",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "Warranty",
+          "Servicing packages",
+          "Location and parking"
+        ],
+        "hit1": false,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.131
+      },
+      "graphrag": {
+        "mode": "local",
+        "intent": "price",
+        "sections": [
+          "Servicing packages",
+          "Courtesy car",
+          "Services and prices"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 1.68
+      }
+    },
+    {
+      "id": "C03",
+      "title": "Synonym trap",
+      "question": "Do you do car polish?",
+      "expected_section": "Services and prices",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "What to bring",
+          "Courtesy car",
+          "Payment methods"
+        ],
+        "hit1": false,
+        "hit3": false,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.2151
+      },
+      "graphrag": {
+        "mode": "local",
+        "intent": "policy",
+        "sections": [
+          "Services and prices",
+          "Warranty"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 1.76
+      }
+    },
+    {
+      "id": "C04",
+      "title": "FAQ asked mid-booking, then resume",
+      "question": "By the way, do you accept PayNow?",
+      "expected_section": "Payment methods",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "Payment methods",
+          "Location and parking"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.2243
+      },
+      "graphrag": {
+        "mode": "local",
+        "intent": "policy",
+        "sections": [
+          "Payment methods"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 1.1392
+      }
+    },
+    {
+      "id": "C11",
+      "title": "Prompt injection",
+      "question": "ok fine, how much is the full servicing package?",
+      "expected_section": "Servicing packages",
+      "expect_abstain": false,
+      "baseline": {
+        "sections": [
+          "Servicing packages",
+          "Services and prices"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 0.427
+      },
+      "graphrag": {
+        "mode": "local",
+        "intent": "price",
+        "sections": [
+          "Servicing packages",
+          "Courtesy car",
+          "EV and hybrid servicing"
+        ],
+        "hit1": true,
+        "hit3": true,
+        "abstained": false,
+        "abstain_correct": true,
+        "score": 1.9501
+      }
+    },
+    {
+      "id": "C14",
+      "title": "Question the KB does not answer",
+      "question": "Do you handle insurance claims for accident repairs?",
+      "expected_section": null,
+      "expect_abstain": true,
+      "baseline": {
+        "sections": [
+          "Warranty",
+          "Opening hours"
+        ],
+        "hit1": false,
+        "hit3": false,
+        "abstained": false,
+        "abstain_correct": false,
+        "score": 0.2348
+      },
+      "graphrag": {
+        "mode": "hybrid",
+        "intent": "policy",
+        "sections": [],
+        "hit1": false,
+        "hit3": false,
+        "abstained": true,
+        "abstain_correct": true,
+        "score": 0.0
+      }
+    },
+    {
+      "id": "C14",
+      "title": "Question the KB does not answer",
+      "question": "What's the COE price this month?",
+      "expected_section": null,
+      "expect_abstain": true,
+      "baseline": {
+        "sections": [
+          "Services and prices"
+        ],
+        "hit1": false,
+        "hit3": false,
+        "abstained": false,
+        "abstain_correct": false,
+        "score": 0.2798
+      },
+      "graphrag": {
+        "mode": "hybrid",
+        "intent": "price",
+        "sections": [],
+        "hit1": false,
+        "hit3": false,
+        "abstained": true,
+        "abstain_correct": true,
+        "score": 0.0
+      }
+    }
+  ],
+  "global_rows": [
+    {
+      "question": "What are all the fees and charges at the workshop?",
+      "expect": "a sweep across every fee, not one paragraph",
+      "baseline_sections": [
+        "Courtesy car",
+        "Cancellation and no-show fees",
+        "Location and parking",
+        "Warranty"
+      ],
+      "baseline_coverage": 4,
+      "graphrag_mode": "global",
+      "graphrag_sections": [
+        "Warranty",
+        "Opening hours",
+        "Services and prices",
+        "Servicing packages"
+      ],
+      "graphrag_coverage": 4,
+      "graphrag_communities": [
+        "c008",
+        "c019",
+        "c027",
+        "c001",
+        "c006"
+      ]
+    },
+    {
+      "question": "Summarise all your policies and rules for customers.",
+      "expect": "a sweep across every policy, not one paragraph",
+      "baseline_sections": [
+        "Payment methods",
+        "Location and parking",
+        "Opening hours"
+      ],
+      "baseline_coverage": 3,
+      "graphrag_mode": "global",
+      "graphrag_sections": [
+        "Services and prices",
+        "Servicing packages",
+        "EV and hybrid servicing",
+        "Warranty",
+        "Payment methods"
+      ],
+      "graphrag_coverage": 5,
+      "graphrag_communities": [
+        "c006",
+        "c008",
+        "c010",
+        "c018",
+        "c019"
+      ]
+    },
+    {
+      "question": "List every service you offer and what each one costs.",
+      "expect": "a sweep across the price list, not one paragraph",
+      "baseline_sections": [
+        "Cancellation and no-show fees",
+        "Servicing packages",
+        "What to bring",
+        "Services and prices"
+      ],
+      "baseline_coverage": 4,
+      "graphrag_mode": "hybrid",
+      "graphrag_sections": [
+        "courtesy-car",
+        "ev-and-hybrid-servicing",
+        "services-and-prices",
+        "servicing-packages",
+        "location-and-parking",
+        "warranty",
+        "payment-methods",
+        "cancellation-and-no-show-fees",
+        "rescheduling",
+        "data-and-privacy-notice"
+      ],
+      "graphrag_coverage": 10,
+      "graphrag_communities": [
+        "c005",
+        "c016",
+        "c004",
+        "c006",
+        "c007"
+      ]
+    }
+  ]
+}

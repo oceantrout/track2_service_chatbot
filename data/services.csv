@@ -1,0 +1,9 @@
+service_code,name,duration_min,price_sgd,bay_type,notes
+SVC-BASIC,Basic servicing package,60,128,general,"Engine oil and oil filter change, 20-point safety check"
+SVC-FULL,Full servicing package,120,268,general,"Basic package plus air filter, cabin filter, spark plugs check, brake fluid top-up"
+SVC-EV,EV and hybrid health check,90,188,ev,"Battery health report, high-voltage system check, coolant, brakes, tyres"
+TYR-ROT,Tyre rotation and balancing,45,60,general,All four wheels
+AC-SVC,Aircon servicing,90,150,general,"Gas top-up, cabin filter, leak test"
+BRK-PAD,Brake pad replacement (front),90,220,general,Price includes standard pads for most sedans
+DET-INT,Interior detailing,180,180,detailing,"Vacuum, upholstery shampoo, dashboard and trim treatment"
+DET-EXT,Exterior detailing,180,220,detailing,"Clay bar, paint correction, protective coating"

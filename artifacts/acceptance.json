@@ -1,0 +1,132 @@
+{
+  "pass": 14,
+  "fail": 0,
+  "conversations": [
+    {
+      "id": "C01",
+      "status": "PASS",
+      "turns": 9,
+      "outcome": "booked",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 37.0
+    },
+    {
+      "id": "C02",
+      "status": "PASS",
+      "turns": 3,
+      "outcome": "answered",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 6.2
+    },
+    {
+      "id": "C03",
+      "status": "PASS",
+      "turns": 2,
+      "outcome": "answered",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 4.6
+    },
+    {
+      "id": "C04",
+      "status": "PASS",
+      "turns": 10,
+      "outcome": "booked",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 27.3
+    },
+    {
+      "id": "C05",
+      "status": "PASS",
+      "turns": 10,
+      "outcome": "booked",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 39.9
+    },
+    {
+      "id": "C06",
+      "status": "PASS",
+      "turns": 11,
+      "outcome": "booked",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 84.1
+    },
+    {
+      "id": "C07",
+      "status": "PASS",
+      "turns": 11,
+      "outcome": "booked",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 69.9
+    },
+    {
+      "id": "C08",
+      "status": "PASS",
+      "turns": 3,
+      "outcome": "cancelled",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 8.0
+    },
+    {
+      "id": "C09",
+      "status": "PASS",
+      "turns": 8,
+      "outcome": "no_consent",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 38.0
+    },
+    {
+      "id": "C10",
+      "status": "PASS",
+      "turns": 9,
+      "outcome": "booked",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 47.4
+    },
+    {
+      "id": "C11",
+      "status": "PASS",
+      "turns": 2,
+      "outcome": "refused",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 3.4
+    },
+    {
+      "id": "C12",
+      "status": "PASS",
+      "turns": 1,
+      "outcome": "out_of_scope",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 2.2
+    },
+    {
+      "id": "C13",
+      "status": "PASS",
+      "turns": 1,
+      "outcome": "handoff",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 1.8
+    },
+    {
+      "id": "C14",
+      "status": "PASS",
+      "turns": 2,
+      "outcome": "answered",
+      "failures": [],
+      "model_calls": 0,
+      "latency_ms": 5.3
+    }
+  ]
+}

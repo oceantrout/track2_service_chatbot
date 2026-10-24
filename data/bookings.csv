@@ -1,0 +1,3 @@
+booking_ref,created_at,service_code,vehicle_plate,appointment_date,appointment_time,name,mobile,email,consent_given_at
+KAC-261026-001,2026-10-24T10:00:00,SVC-EV,SBA1234M,10/26/2026,16:00,Jerry,87661234,mtakf@gmail.com,2026-10-24T10:00:00
+KAC-261107-001,2026-10-24T10:00:00,SVC-EV,SBA1235K,2026-11-07,12:00,Jason,87122345,jajffdj@gmail.com,2026-10-24T10:00:00

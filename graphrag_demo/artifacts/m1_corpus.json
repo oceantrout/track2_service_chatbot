@@ -1,0 +1,985 @@
+{
+  "source_path": "C:\\Users\\Lenovo\\claude_test\\track2_service_chatbot\\data\\faq_kb.md",
+  "sections": [
+    {
+      "section_id": "opening-hours",
+      "title": "Opening hours",
+      "heading": "## Opening hours",
+      "start_line": 5,
+      "end_line": 14,
+      "unit_ids": [
+        "opening-hours::u001",
+        "opening-hours::u002",
+        "opening-hours::u003",
+        "opening-hours::u004"
+      ]
+    },
+    {
+      "section_id": "location-and-parking",
+      "title": "Location and parking",
+      "heading": "## Location and parking",
+      "start_line": 15,
+      "end_line": 26,
+      "unit_ids": [
+        "location-and-parking::u001",
+        "location-and-parking::u002",
+        "location-and-parking::u003",
+        "location-and-parking::u004",
+        "location-and-parking::u005"
+      ]
+    },
+    {
+      "section_id": "services-and-prices",
+      "title": "Services and prices",
+      "heading": "## Services and prices",
+      "start_line": 27,
+      "end_line": 47,
+      "unit_ids": [
+        "services-and-prices::u001",
+        "services-and-prices::u002",
+        "services-and-prices::u003",
+        "services-and-prices::u004",
+        "services-and-prices::u005",
+        "services-and-prices::u006",
+        "services-and-prices::u007",
+        "services-and-prices::u008",
+        "services-and-prices::u009",
+        "services-and-prices::u010",
+        "services-and-prices::u011",
+        "services-and-prices::u012"
+      ]
+    },
+    {
+      "section_id": "servicing-packages",
+      "title": "Servicing packages",
+      "heading": "## Servicing packages",
+      "start_line": 48,
+      "end_line": 73,
+      "unit_ids": [
+        "servicing-packages::u001",
+        "servicing-packages::u002",
+        "servicing-packages::u003",
+        "servicing-packages::u004",
+        "servicing-packages::u005",
+        "servicing-packages::u006",
+        "servicing-packages::u007",
+        "servicing-packages::u008",
+        "servicing-packages::u009",
+        "servicing-packages::u010",
+        "servicing-packages::u011",
+        "servicing-packages::u012",
+        "servicing-packages::u013",
+        "servicing-packages::u014",
+        "servicing-packages::u015",
+        "servicing-packages::u016",
+        "servicing-packages::u017"
+      ]
+    },
+    {
+      "section_id": "ev-and-hybrid-servicing",
+      "title": "EV and hybrid servicing",
+      "heading": "## EV and hybrid servicing",
+      "start_line": 74,
+      "end_line": 90,
+      "unit_ids": [
+        "ev-and-hybrid-servicing::u001",
+        "ev-and-hybrid-servicing::u002",
+        "ev-and-hybrid-servicing::u003",
+        "ev-and-hybrid-servicing::u004",
+        "ev-and-hybrid-servicing::u005",
+        "ev-and-hybrid-servicing::u006",
+        "ev-and-hybrid-servicing::u007",
+        "ev-and-hybrid-servicing::u008",
+        "ev-and-hybrid-servicing::u009",
+        "ev-and-hybrid-servicing::u010"
+      ]
+    },
+    {
+      "section_id": "warranty",
+      "title": "Warranty",
+      "heading": "## Warranty",
+      "start_line": 91,
+      "end_line": 102,
+      "unit_ids": [
+        "warranty::u001",
+        "warranty::u002",
+        "warranty::u003",
+        "warranty::u004",
+        "warranty::u005"
+      ]
+    },
+    {
+      "section_id": "what-to-bring",
+      "title": "What to bring",
+      "heading": "## What to bring",
+      "start_line": 103,
+      "end_line": 117,
+      "unit_ids": [
+        "what-to-bring::u001",
+        "what-to-bring::u002",
+        "what-to-bring::u003",
+        "what-to-bring::u004",
+        "what-to-bring::u005",
+        "what-to-bring::u006",
+        "what-to-bring::u007",
+        "what-to-bring::u008"
+      ]
+    },
+    {
+      "section_id": "payment-methods",
+      "title": "Payment methods",
+      "heading": "## Payment methods",
+      "start_line": 118,
+      "end_line": 132,
+      "unit_ids": [
+        "payment-methods::u001",
+        "payment-methods::u002",
+        "payment-methods::u003",
+        "payment-methods::u004",
+        "payment-methods::u005",
+        "payment-methods::u006",
+        "payment-methods::u007",
+        "payment-methods::u008"
+      ]
+    },
+    {
+      "section_id": "cancellation-and-no-show-fees",
+      "title": "Cancellation and no-show fees",
+      "heading": "## Cancellation and no-show fees",
+      "start_line": 133,
+      "end_line": 144,
+      "unit_ids": [
+        "cancellation-and-no-show-fees::u001",
+        "cancellation-and-no-show-fees::u002",
+        "cancellation-and-no-show-fees::u003",
+        "cancellation-and-no-show-fees::u004",
+        "cancellation-and-no-show-fees::u005"
+      ]
+    },
+    {
+      "section_id": "courtesy-car",
+      "title": "Courtesy car",
+      "heading": "## Courtesy car",
+      "start_line": 145,
+      "end_line": 154,
+      "unit_ids": [
+        "courtesy-car::u001",
+        "courtesy-car::u002",
+        "courtesy-car::u003",
+        "courtesy-car::u004"
+      ]
+    },
+    {
+      "section_id": "rescheduling",
+      "title": "Rescheduling",
+      "heading": "## Rescheduling",
+      "start_line": 155,
+      "end_line": 162,
+      "unit_ids": [
+        "rescheduling::u001",
+        "rescheduling::u002",
+        "rescheduling::u003"
+      ]
+    },
+    {
+      "section_id": "data-and-privacy-notice",
+      "title": "Data and privacy notice",
+      "heading": "## Data and privacy notice",
+      "start_line": 163,
+      "end_line": 175,
+      "unit_ids": [
+        "data-and-privacy-notice::u001",
+        "data-and-privacy-notice::u002",
+        "data-and-privacy-notice::u003",
+        "data-and-privacy-notice::u004",
+        "data-and-privacy-notice::u005",
+        "data-and-privacy-notice::u006"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "unit_id": "opening-hours::u001",
+      "section_id": "opening-hours",
+      "section_title": "Opening hours",
+      "kind": "para",
+      "text": "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm. We are closed on Sundays and on Singapore public holidays.",
+      "start_line": 7,
+      "end_line": 7
+    },
+    {
+      "unit_id": "opening-hours::u002",
+      "section_id": "opening-hours",
+      "section_title": "Opening hours",
+      "kind": "para",
+      "text": "The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing. On Saturdays the last appointment slot starts at 12:00pm.",
+      "start_line": 9,
+      "end_line": 9
+    },
+    {
+      "unit_id": "opening-hours::u003",
+      "section_id": "opening-hours",
+      "section_title": "Opening hours",
+      "kind": "para",
+      "text": "Our service desk answers phone calls during opening hours only. Outside opening hours you can leave a message through this chat and a service advisor will reply on the next working day.",
+      "start_line": 11,
+      "end_line": 11
+    },
+    {
+      "unit_id": "opening-hours::u004",
+      "section_id": "opening-hours",
+      "section_title": "Opening hours",
+      "kind": "para",
+      "text": "Car collection: if your car is ready after we close, it stays safely inside the workshop overnight and you can collect it from 8:30am the next working day. There is no storage charge for the first two days.",
+      "start_line": 13,
+      "end_line": 13
+    },
+    {
+      "unit_id": "location-and-parking::u001",
+      "section_id": "location-and-parking",
+      "section_title": "Location and parking",
+      "kind": "para",
+      "text": "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988. The entrance faces the main road; look for the blue Kallang Auto Care signboard above the shutter.",
+      "start_line": 17,
+      "end_line": 17
+    },
+    {
+      "unit_id": "location-and-parking::u002",
+      "section_id": "location-and-parking",
+      "section_title": "Location and parking",
+      "kind": "para",
+      "text": "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo. These lots are free for customers dropping off or collecting a car. Please do not park in the loading bay next to us, as it belongs to a neighbouring unit.",
+      "start_line": 19,
+      "end_line": 19
+    },
+    {
+      "unit_id": "location-and-parking::u003",
+      "section_id": "location-and-parking",
+      "section_title": "Location and parking",
+      "kind": "para",
+      "text": "If our customer lots are full, the public car park at Block 90 is a two-minute walk away. Parking charges there are paid through the usual parking system and are not covered by us.",
+      "start_line": 21,
+      "end_line": 21
+    },
+    {
+      "unit_id": "location-and-parking::u004",
+      "section_id": "location-and-parking",
+      "section_title": "Location and parking",
+      "kind": "para",
+      "text": "Getting here without a car: the nearest MRT station is about a ten-minute walk away, and several bus services stop along Kallang Way. Our service advisor can also arrange a private-hire ride for you at your own cost.",
+      "start_line": 23,
+      "end_line": 23
+    },
+    {
+      "unit_id": "location-and-parking::u005",
+      "section_id": "location-and-parking",
+      "section_title": "Location and parking",
+      "kind": "para",
+      "text": "Waiting area: we have an air-conditioned waiting area with free drinks, charging points for phones and laptops, and free Wi-Fi. Short jobs such as tyre rotation can usually be completed while you wait.",
+      "start_line": 25,
+      "end_line": 25
+    },
+    {
+      "unit_id": "services-and-prices::u001",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "para",
+      "text": "All prices are in Singapore dollars and include 9% GST. Prices are for standard passenger cars; larger SUVs and continental models may cost more, and our service advisor will tell you before any extra work starts.",
+      "start_line": 29,
+      "end_line": 29
+    },
+    {
+      "unit_id": "services-and-prices::u002",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Basic servicing package; Price (SGD): 128; Typical time: 1 hour",
+      "start_line": 33,
+      "end_line": 33
+    },
+    {
+      "unit_id": "services-and-prices::u003",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Full servicing package; Price (SGD): 268; Typical time: 2 hours",
+      "start_line": 34,
+      "end_line": 34
+    },
+    {
+      "unit_id": "services-and-prices::u004",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours",
+      "start_line": 35,
+      "end_line": 35
+    },
+    {
+      "unit_id": "services-and-prices::u005",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Tyre rotation and balancing; Price (SGD): 60; Typical time: 45 minutes",
+      "start_line": 36,
+      "end_line": 36
+    },
+    {
+      "unit_id": "services-and-prices::u006",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Aircon servicing; Price (SGD): 150; Typical time: 1.5 hours",
+      "start_line": 37,
+      "end_line": 37
+    },
+    {
+      "unit_id": "services-and-prices::u007",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours",
+      "start_line": 38,
+      "end_line": 38
+    },
+    {
+      "unit_id": "services-and-prices::u008",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Interior detailing; Price (SGD): 180; Typical time: 3 hours",
+      "start_line": 39,
+      "end_line": 39
+    },
+    {
+      "unit_id": "services-and-prices::u009",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "table_row",
+      "text": "| Service | Price (SGD) | Typical time |\nService: Exterior detailing; Price (SGD): 220; Typical time: 3 hours",
+      "start_line": 40,
+      "end_line": 40
+    },
+    {
+      "unit_id": "services-and-prices::u010",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "para",
+      "text": "Detailing: our detailing team works in a separate detailing bay. Interior detailing covers vacuuming, upholstery shampoo, leather conditioning and dashboard and trim treatment. Exterior detailing covers a clay bar treatment, machine paint correction to reduce swirl marks and light scratches, and a protective coating that lasts about six months. Detailing does not include repair of dents or deep scratches.",
+      "start_line": 42,
+      "end_line": 42
+    },
+    {
+      "unit_id": "services-and-prices::u011",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "para",
+      "text": "Parts: brake pad prices include standard pads that fit most sedans. If your car needs special pads, we will quote the difference before fitting them. Any other parts found to need replacing during a service are quoted separately, and we never replace parts without your approval.",
+      "start_line": 44,
+      "end_line": 44
+    },
+    {
+      "unit_id": "services-and-prices::u012",
+      "section_id": "services-and-prices",
+      "section_title": "Services and prices",
+      "kind": "para",
+      "text": "Diagnostics: if your car shows a warning light, we charge a diagnostic fee of SGD 45. This fee is waived if you go ahead with the repair at our workshop.",
+      "start_line": 46,
+      "end_line": 46
+    },
+    {
+      "unit_id": "servicing-packages::u001",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "para",
+      "text": "We offer two servicing packages. Most manufacturers recommend servicing every 10,000 km or every six months, whichever comes first. Your owner's manual has the exact interval for your car.",
+      "start_line": 50,
+      "end_line": 50
+    },
+    {
+      "unit_id": "servicing-packages::u002",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "para",
+      "text": "The Basic servicing package (SGD 128) includes:",
+      "start_line": 52,
+      "end_line": 52
+    },
+    {
+      "unit_id": "servicing-packages::u003",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Engine oil change with fully synthetic oil (up to 4.5 litres)",
+      "start_line": 54,
+      "end_line": 54
+    },
+    {
+      "unit_id": "servicing-packages::u004",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "New oil filter",
+      "start_line": 55,
+      "end_line": 55
+    },
+    {
+      "unit_id": "servicing-packages::u005",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "20-point safety check covering lights, wipers, tyres, brakes, battery, belts and fluid levels",
+      "start_line": 56,
+      "end_line": 56
+    },
+    {
+      "unit_id": "servicing-packages::u006",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Top-up of windscreen washer fluid and coolant",
+      "start_line": 57,
+      "end_line": 57
+    },
+    {
+      "unit_id": "servicing-packages::u007",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Reset of the service reminder on your dashboard",
+      "start_line": 58,
+      "end_line": 58
+    },
+    {
+      "unit_id": "servicing-packages::u008",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "para",
+      "text": "The Full servicing package (SGD 268) includes everything in the Basic package, plus:",
+      "start_line": 60,
+      "end_line": 60
+    },
+    {
+      "unit_id": "servicing-packages::u009",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "New engine air filter",
+      "start_line": 62,
+      "end_line": 62
+    },
+    {
+      "unit_id": "servicing-packages::u010",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "New cabin (aircon) filter",
+      "start_line": 63,
+      "end_line": 63
+    },
+    {
+      "unit_id": "servicing-packages::u011",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Spark plug check, and replacement quoted if needed",
+      "start_line": 64,
+      "end_line": 64
+    },
+    {
+      "unit_id": "servicing-packages::u012",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Brake fluid top-up and brake performance test",
+      "start_line": 65,
+      "end_line": 65
+    },
+    {
+      "unit_id": "servicing-packages::u013",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Battery health test with printed report",
+      "start_line": 66,
+      "end_line": 66
+    },
+    {
+      "unit_id": "servicing-packages::u014",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Underbody check for leaks and worn parts",
+      "start_line": 67,
+      "end_line": 67
+    },
+    {
+      "unit_id": "servicing-packages::u015",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "list_item",
+      "text": "Road test by a senior technician",
+      "start_line": 68,
+      "end_line": 68
+    },
+    {
+      "unit_id": "servicing-packages::u016",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "para",
+      "text": "Which package should I choose? If your last service was a Full servicing package, a Basic package is usually enough for the next interval. If you are unsure, or your car has done more than 60,000 km, we recommend the Full package. Our service advisor will check your service record when you drop off the car.",
+      "start_line": 70,
+      "end_line": 70
+    },
+    {
+      "unit_id": "servicing-packages::u017",
+      "section_id": "servicing-packages",
+      "section_title": "Servicing packages",
+      "kind": "para",
+      "text": "Servicing your car with us does not affect your manufacturer warranty, as long as the service follows the manufacturer's schedule and uses parts of matching quality. We stamp your service booklet and also send you a digital service record by email.",
+      "start_line": 72,
+      "end_line": 72
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u001",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "para",
+      "text": "Electric and hybrid cars need fewer oil changes but still need regular checks. Our EV and hybrid health check (SGD 188) is carried out in a dedicated EV bay by technicians certified to work on high-voltage systems.",
+      "start_line": 76,
+      "end_line": 76
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u002",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "para",
+      "text": "The health check includes:",
+      "start_line": 78,
+      "end_line": 78
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u003",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "list_item",
+      "text": "Traction battery health report, including estimated remaining capacity",
+      "start_line": 80,
+      "end_line": 80
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u004",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "list_item",
+      "text": "High-voltage cable and connector check",
+      "start_line": 81,
+      "end_line": 81
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u005",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "list_item",
+      "text": "Battery cooling system and coolant check",
+      "start_line": 82,
+      "end_line": 82
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u006",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "list_item",
+      "text": "Brake check: EVs use regenerative braking, so brake discs can rust from low use; we check and clean them",
+      "start_line": 83,
+      "end_line": 83
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u007",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "list_item",
+      "text": "Tyre check: EVs are heavier, so tyres tend to wear faster",
+      "start_line": 84,
+      "end_line": 84
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u008",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "list_item",
+      "text": "Software version check against the manufacturer's latest release",
+      "start_line": 85,
+      "end_line": 85
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u009",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "para",
+      "text": "Hybrid cars also have a petrol engine, so they still need engine oil changes. For a hybrid, we recommend combining the EV and hybrid health check with a Basic servicing package. Book them as two separate services; we will schedule them in the same visit.",
+      "start_line": 87,
+      "end_line": 87
+    },
+    {
+      "unit_id": "ev-and-hybrid-servicing::u010",
+      "section_id": "ev-and-hybrid-servicing",
+      "section_title": "EV and hybrid servicing",
+      "kind": "para",
+      "text": "Charging: we have one 22 kW charger for customer cars being serviced. We will top up your battery while your car is with us, free of charge, but we cannot guarantee a full charge.",
+      "start_line": 89,
+      "end_line": 89
+    },
+    {
+      "unit_id": "warranty::u001",
+      "section_id": "warranty",
+      "section_title": "Warranty",
+      "kind": "para",
+      "text": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. If a problem comes back because of our work within that period, we will fix it at no cost to you.",
+      "start_line": 93,
+      "end_line": 93
+    },
+    {
+      "unit_id": "warranty::u002",
+      "section_id": "warranty",
+      "section_title": "Warranty",
+      "kind": "para",
+      "text": "Parts we supply carry the parts manufacturer's warranty, which is usually 12 months. Brake pads are covered against manufacturing defects but not against normal wear.",
+      "start_line": 95,
+      "end_line": 95
+    },
+    {
+      "unit_id": "warranty::u003",
+      "section_id": "warranty",
+      "section_title": "Warranty",
+      "kind": "para",
+      "text": "Detailing work: the protective coating from exterior detailing is guaranteed for 3 months. If the coating fails within that time under normal use, we will reapply it free of charge.",
+      "start_line": 97,
+      "end_line": 97
+    },
+    {
+      "unit_id": "warranty::u004",
+      "section_id": "warranty",
+      "section_title": "Warranty",
+      "kind": "para",
+      "text": "The warranty does not cover damage from accidents, misuse, modifications made by another workshop, or parts that you supplied yourself.",
+      "start_line": 99,
+      "end_line": 99
+    },
+    {
+      "unit_id": "warranty::u005",
+      "section_id": "warranty",
+      "section_title": "Warranty",
+      "kind": "para",
+      "text": "To use the warranty, contact our service desk with your booking reference. Please bring the car back to us rather than to another workshop, as repairs done elsewhere are not covered.",
+      "start_line": 101,
+      "end_line": 101
+    },
+    {
+      "unit_id": "what-to-bring::u001",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "para",
+      "text": "When you drop off your car, please bring:",
+      "start_line": 105,
+      "end_line": 105
+    },
+    {
+      "unit_id": "what-to-bring::u002",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "list_item",
+      "text": "Your car key, plus the spare key if your car has a keyless or immobiliser system that needs it",
+      "start_line": 107,
+      "end_line": 107
+    },
+    {
+      "unit_id": "what-to-bring::u003",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "list_item",
+      "text": "Your service booklet, if you have one, so we can stamp it",
+      "start_line": 108,
+      "end_line": 108
+    },
+    {
+      "unit_id": "what-to-bring::u004",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "list_item",
+      "text": "The locking wheel nut key, if your car has locking wheel nuts (we cannot rotate or remove the wheels without it)",
+      "start_line": 109,
+      "end_line": 109
+    },
+    {
+      "unit_id": "what-to-bring::u005",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "list_item",
+      "text": "Your booking reference, shown in your confirmation email",
+      "start_line": 110,
+      "end_line": 110
+    },
+    {
+      "unit_id": "what-to-bring::u006",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "para",
+      "text": "You do not need to bring your vehicle log card or any identity document. We only need the name and mobile number on the booking.",
+      "start_line": 112,
+      "end_line": 112
+    },
+    {
+      "unit_id": "what-to-bring::u007",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "para",
+      "text": "Please remove valuables from the car before drop-off. We are not responsible for personal items left in the car.",
+      "start_line": 114,
+      "end_line": 114
+    },
+    {
+      "unit_id": "what-to-bring::u008",
+      "section_id": "what-to-bring",
+      "section_title": "What to bring",
+      "kind": "para",
+      "text": "If someone else will drop off or collect the car for you, just tell them your booking reference. They do not need to show identification.",
+      "start_line": 116,
+      "end_line": 116
+    },
+    {
+      "unit_id": "payment-methods::u001",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "para",
+      "text": "We accept payment when you collect your car. Payment methods:",
+      "start_line": 120,
+      "end_line": 120
+    },
+    {
+      "unit_id": "payment-methods::u002",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "list_item",
+      "text": "PayNow to our UEN (shown on your invoice)",
+      "start_line": 122,
+      "end_line": 122
+    },
+    {
+      "unit_id": "payment-methods::u003",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "list_item",
+      "text": "NETS and contactless card payment at the service desk",
+      "start_line": 123,
+      "end_line": 123
+    },
+    {
+      "unit_id": "payment-methods::u004",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "list_item",
+      "text": "Visa, Mastercard and American Express credit cards",
+      "start_line": 124,
+      "end_line": 124
+    },
+    {
+      "unit_id": "payment-methods::u005",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "list_item",
+      "text": "Corporate accounts by monthly invoice, for approved fleet customers only",
+      "start_line": 125,
+      "end_line": 125
+    },
+    {
+      "unit_id": "payment-methods::u006",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "para",
+      "text": "We do not accept cash payments above SGD 500, and we do not accept cheques.",
+      "start_line": 127,
+      "end_line": 127
+    },
+    {
+      "unit_id": "payment-methods::u007",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "para",
+      "text": "We never ask for card details through this chat, by email or over the phone. If anyone claiming to be from Kallang Auto Care asks for your card number, please do not share it and call our service desk directly.",
+      "start_line": 129,
+      "end_line": 129
+    },
+    {
+      "unit_id": "payment-methods::u008",
+      "section_id": "payment-methods",
+      "section_title": "Payment methods",
+      "kind": "para",
+      "text": "A detailed invoice is emailed to you after payment, listing all work done and parts used.",
+      "start_line": 131,
+      "end_line": 131
+    },
+    {
+      "unit_id": "cancellation-and-no-show-fees::u001",
+      "section_id": "cancellation-and-no-show-fees",
+      "section_title": "Cancellation and no-show fees",
+      "kind": "para",
+      "text": "You can cancel a booking free of charge up to 24 hours before the appointment time.",
+      "start_line": 135,
+      "end_line": 135
+    },
+    {
+      "unit_id": "cancellation-and-no-show-fees::u002",
+      "section_id": "cancellation-and-no-show-fees",
+      "section_title": "Cancellation and no-show fees",
+      "kind": "para",
+      "text": "If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies. If you do not turn up and do not tell us, a no-show fee of SGD 30 applies. These fees are charged on your next visit.",
+      "start_line": 137,
+      "end_line": 137
+    },
+    {
+      "unit_id": "cancellation-and-no-show-fees::u003",
+      "section_id": "cancellation-and-no-show-fees",
+      "section_title": "Cancellation and no-show fees",
+      "kind": "para",
+      "text": "We understand that emergencies happen. If you miss an appointment because of an emergency, tell our service desk and the fee may be waived.",
+      "start_line": 139,
+      "end_line": 139
+    },
+    {
+      "unit_id": "cancellation-and-no-show-fees::u004",
+      "section_id": "cancellation-and-no-show-fees",
+      "section_title": "Cancellation and no-show fees",
+      "kind": "para",
+      "text": "If we need to cancel your appointment, for example because a technician is unwell, we will contact you as early as possible and offer the next available slot at no extra cost.",
+      "start_line": 141,
+      "end_line": 141
+    },
+    {
+      "unit_id": "cancellation-and-no-show-fees::u005",
+      "section_id": "cancellation-and-no-show-fees",
+      "section_title": "Cancellation and no-show fees",
+      "kind": "para",
+      "text": "To cancel a booking, call our service desk or reply to your confirmation email with your booking reference. This chat assistant can take new bookings but cannot cancel existing ones yet.",
+      "start_line": 143,
+      "end_line": 143
+    },
+    {
+      "unit_id": "courtesy-car::u001",
+      "section_id": "courtesy-car",
+      "section_title": "Courtesy car",
+      "kind": "para",
+      "text": "For the Full servicing package, brake work and any job longer than 3 hours, you can request a courtesy car. We have two small hatchback courtesy cars, available on a first-come, first-served basis.",
+      "start_line": 147,
+      "end_line": 147
+    },
+    {
+      "unit_id": "courtesy-car::u002",
+      "section_id": "courtesy-car",
+      "section_title": "Courtesy car",
+      "kind": "para",
+      "text": "To use a courtesy car you must be at least 23 years old and have held a valid driving licence for at least two years. You will need to show your driving licence when you collect the courtesy car.",
+      "start_line": 149,
+      "end_line": 149
+    },
+    {
+      "unit_id": "courtesy-car::u003",
+      "section_id": "courtesy-car",
+      "section_title": "Courtesy car",
+      "kind": "para",
+      "text": "The courtesy car is free for the day of your service. Please return it with the same fuel level. Parking fees, ERP charges and traffic fines incurred while you use it are your responsibility.",
+      "start_line": 151,
+      "end_line": 151
+    },
+    {
+      "unit_id": "courtesy-car::u004",
+      "section_id": "courtesy-car",
+      "section_title": "Courtesy car",
+      "kind": "para",
+      "text": "Courtesy cars must be requested at least one working day in advance. Ask our service desk after you have made your booking.",
+      "start_line": 153,
+      "end_line": 153
+    },
+    {
+      "unit_id": "rescheduling::u001",
+      "section_id": "rescheduling",
+      "section_title": "Rescheduling",
+      "kind": "para",
+      "text": "You can move your appointment to another date or time free of charge up to 24 hours before the original appointment. Rescheduling less than 24 hours before is treated as a late cancellation and the SGD 20 fee applies, unless the new slot is on the same day.",
+      "start_line": 157,
+      "end_line": 157
+    },
+    {
+      "unit_id": "rescheduling::u002",
+      "section_id": "rescheduling",
+      "section_title": "Rescheduling",
+      "kind": "para",
+      "text": "To reschedule, call our service desk or reply to your confirmation email with your booking reference and your preferred new date and time. This chat assistant can take new bookings but cannot change existing ones yet.",
+      "start_line": 159,
+      "end_line": 159
+    },
+    {
+      "unit_id": "rescheduling::u003",
+      "section_id": "rescheduling",
+      "section_title": "Rescheduling",
+      "kind": "para",
+      "text": "If your car is already with us and the job will take longer than expected, for example because a part needs to be ordered, our service advisor will call you with the new completion time before continuing.",
+      "start_line": 161,
+      "end_line": 161
+    },
+    {
+      "unit_id": "data-and-privacy-notice::u001",
+      "section_id": "data-and-privacy-notice",
+      "section_title": "Data and privacy notice",
+      "kind": "para",
+      "text": "Kallang Auto Care collects only the personal data we need to manage your booking: your name, mobile number, email address and vehicle registration number.",
+      "start_line": 165,
+      "end_line": 165
+    },
+    {
+      "unit_id": "data-and-privacy-notice::u002",
+      "section_id": "data-and-privacy-notice",
+      "section_title": "Data and privacy notice",
+      "kind": "para",
+      "text": "We use this data to confirm your booking, send reminders, contact you about your car during the service, and keep a service record for your vehicle. We do not sell your data and we do not use it for marketing unless you separately agree to receive offers.",
+      "start_line": 167,
+      "end_line": 167
+    },
+    {
+      "unit_id": "data-and-privacy-notice::u003",
+      "section_id": "data-and-privacy-notice",
+      "section_title": "Data and privacy notice",
+      "kind": "para",
+      "text": "We do not collect your NRIC number, passport number or payment card details through this chat. Please do not share them here.",
+      "start_line": 169,
+      "end_line": 169
+    },
+    {
+      "unit_id": "data-and-privacy-notice::u004",
+      "section_id": "data-and-privacy-notice",
+      "section_title": "Data and privacy notice",
+      "kind": "para",
+      "text": "Your booking data is kept for 2 years after your last visit so we can keep your service history, and is then deleted.",
+      "start_line": 171,
+      "end_line": 171
+    },
+    {
+      "unit_id": "data-and-privacy-notice::u005",
+      "section_id": "data-and-privacy-notice",
+      "section_title": "Data and privacy notice",
+      "kind": "para",
+      "text": "You can ask to see, correct or withdraw consent for the use of your personal data by emailing our Data Protection Officer at dpo@example.com. Withdrawing consent may mean we cannot take further bookings for you.",
+      "start_line": 173,
+      "end_line": 173
+    },
+    {
+      "unit_id": "data-and-privacy-notice::u006",
+      "section_id": "data-and-privacy-notice",
+      "section_title": "Data and privacy notice",
+      "kind": "para",
+      "text": "This notice is provided in line with Singapore's Personal Data Protection Act (PDPA).",
+      "start_line": 175,
+      "end_line": 175
+    }
+  ]
+}

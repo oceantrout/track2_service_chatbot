@@ -1,0 +1,8 @@
+{
+  "served_model": "MiniMax-M3.1-Flash",
+  "is_anthropic": false,
+  "supports_structured_output": true,
+  "supports_effort": false,
+  "probed_at": "2026-10-21T12:37:04.837811+00:00",
+  "requested_model": "claude-opus-5-5"
+}

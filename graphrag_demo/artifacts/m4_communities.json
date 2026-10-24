@@ -1,0 +1,719 @@
+{
+  "generated_at": "2026-10-21T12:42:45.677110+00:00",
+  "engine": "rules",
+  "levels": 3,
+  "communities": [
+    {
+      "community_id": "c001",
+      "key": "L0:e001",
+      "level": 0,
+      "members": [
+        "e001"
+      ],
+      "size": 1,
+      "title": "Opening hours",
+      "summary": "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm. The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing. Car collection: if your car is ready after we close, it stays safely inside the workshop overnight and you can collect it from 8:30am the next working day.",
+      "summary_source": "extractive",
+      "sections": [
+        "opening-hours"
+      ],
+      "claim_count": 8,
+      "sample_claims": [
+        "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm.",
+        "We are closed on Sundays and on Singapore public holidays.",
+        "The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing."
+      ]
+    },
+    {
+      "community_id": "c002",
+      "key": "L0:e002|e003|e004",
+      "level": 0,
+      "members": [
+        "e002",
+        "e003",
+        "e004"
+      ],
+      "size": 3,
+      "title": "Location and parking, Kallang Way, Kallang Auto Care",
+      "summary": "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988. Getting here without a car: the nearest MRT station is about a ten-minute walk away, and several bus services stop along Kallang Way. If our customer lots are full, the public car park at Block 90 is a two-minute walk away.",
+      "summary_source": "extractive",
+      "sections": [
+        "data-and-privacy-notice",
+        "location-and-parking",
+        "payment-methods"
+      ],
+      "claim_count": 13,
+      "sample_claims": [
+        "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988.",
+        "The entrance faces the main road; look for the blue Kallang Auto Care signboard above the shutter.",
+        "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo."
+      ]
+    },
+    {
+      "community_id": "c003",
+      "key": "L0:e005|e029",
+      "level": 0,
+      "members": [
+        "e005",
+        "e029"
+      ],
+      "size": 2,
+      "title": "Customer parking, Courtesy car",
+      "summary": "To use a courtesy car you must be at least 23 years old and have held a valid driving licence for at least two years. If our customer lots are full, the public car park at Block 90 is a two-minute walk away. For the Full servicing package, brake work and any job longer than 3 hours, you can request a courtesy car.",
+      "summary_source": "extractive",
+      "sections": [
+        "courtesy-car",
+        "location-and-parking"
+      ],
+      "claim_count": 12,
+      "sample_claims": [
+        "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo.",
+        "If our customer lots are full, the public car park at Block 90 is a two-minute walk away.",
+        "Parking charges there are paid through the usual parking system and are not covered by us."
+      ]
+    },
+    {
+      "community_id": "c004",
+      "key": "L0:e006|e007|e014",
+      "level": 0,
+      "members": [
+        "e006",
+        "e007",
+        "e014"
+      ],
+      "size": 3,
+      "title": "Tyre rotation and balancing, Services and prices, Diagnostic fee",
+      "summary": "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Aircon servicing; Price (SGD): 150; Typical time: 1.5 hours",
+      "summary_source": "extractive",
+      "sections": [
+        "location-and-parking",
+        "services-and-prices"
+      ],
+      "claim_count": 20,
+      "sample_claims": [
+        "Short jobs such as tyre rotation can usually be completed while you wait.",
+        "All prices are in Singapore dollars and include 9% GST.",
+        "Prices are for standard passenger cars; larger SUVs and continental models may cost more, and our service advisor will tell you before any extra work starts."
+      ]
+    },
+    {
+      "community_id": "c005",
+      "key": "L0:e008|e009|e010|e015",
+      "level": 0,
+      "members": [
+        "e008",
+        "e009",
+        "e010",
+        "e015"
+      ],
+      "size": 4,
+      "title": "Basic servicing package, EV and hybrid health check, Aircon servicing, Servicing packages",
+      "summary": "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours Most manufacturers recommend servicing every 10,000 km or every six months, whichever comes first. | Service | Price (SGD) | Typical time |\nService: Aircon servicing; Price (SGD): 150; Typical time: 1.5 hours",
+      "summary_source": "extractive",
+      "sections": [
+        "courtesy-car",
+        "ev-and-hybrid-servicing",
+        "services-and-prices",
+        "servicing-packages"
+      ],
+      "claim_count": 30,
+      "sample_claims": [
+        "| Service | Price (SGD) | Typical time |\nService: Basic servicing package; Price (SGD): 128; Typical time: 1 hour",
+        "| Service | Price (SGD) | Typical time |\nService: Full servicing package; Price (SGD): 268; Typical time: 2 hours",
+        "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours"
+      ]
+    },
+    {
+      "community_id": "c006",
+      "key": "L0:e011|e016|e017",
+      "level": 0,
+      "members": [
+        "e011",
+        "e016",
+        "e017"
+      ],
+      "size": 3,
+      "title": "Brake pad replacement (front), Workmanship warranty, EV and hybrid servicing",
+      "summary": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. | Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours Our EV and hybrid health check (SGD 188) is carried out in a dedicated EV bay by technicians certified to work on high-voltage systems.",
+      "summary_source": "extractive",
+      "sections": [
+        "ev-and-hybrid-servicing",
+        "services-and-prices",
+        "servicing-packages",
+        "warranty"
+      ],
+      "claim_count": 24,
+      "sample_claims": [
+        "| Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours",
+        "Servicing your car with us does not affect your manufacturer warranty, as long as the service follows the manufacturer's schedule and uses parts of matching quality.",
+        "Electric and hybrid cars need fewer oil changes but still need regular checks."
+      ]
+    },
+    {
+      "community_id": "c007",
+      "key": "L0:e012|e013",
+      "level": 0,
+      "members": [
+        "e012",
+        "e013"
+      ],
+      "size": 2,
+      "title": "Interior detailing, Exterior detailing",
+      "summary": "| Service | Price (SGD) | Typical time |\nService: Interior detailing; Price (SGD): 180; Typical time: 3 hours | Service | Price (SGD) | Typical time |\nService: Exterior detailing; Price (SGD): 220; Typical time: 3 hours Exterior detailing covers a clay bar treatment, machine paint correction to reduce swirl marks and light scratches, and a protective coating that lasts about six months.",
+      "summary_source": "extractive",
+      "sections": [
+        "services-and-prices",
+        "warranty"
+      ],
+      "claim_count": 5,
+      "sample_claims": [
+        "| Service | Price (SGD) | Typical time |\nService: Interior detailing; Price (SGD): 180; Typical time: 3 hours",
+        "| Service | Price (SGD) | Typical time |\nService: Exterior detailing; Price (SGD): 220; Typical time: 3 hours",
+        "Interior detailing covers vacuuming, upholstery shampoo, leather conditioning and dashboard and trim treatment."
+      ]
+    },
+    {
+      "community_id": "c008",
+      "key": "L0:e018",
+      "level": 0,
+      "members": [
+        "e018"
+      ],
+      "size": 1,
+      "title": "Warranty",
+      "summary": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. Parts we supply carry the parts manufacturer's warranty, which is usually 12 months. Please bring the car back to us rather than to another workshop, as repairs done elsewhere are not covered.",
+      "summary_source": "extractive",
+      "sections": [
+        "warranty"
+      ],
+      "claim_count": 9,
+      "sample_claims": [
+        "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first.",
+        "If a problem comes back because of our work within that period, we will fix it at no cost to you.",
+        "Parts we supply carry the parts manufacturer's warranty, which is usually 12 months."
+      ]
+    },
+    {
+      "community_id": "c009",
+      "key": "L0:e019",
+      "level": 0,
+      "members": [
+        "e019"
+      ],
+      "size": 1,
+      "title": "What to bring",
+      "summary": "The locking wheel nut key, if your car has locking wheel nuts (we cannot rotate or remove the wheels without it) If someone else will drop off or collect the car for you, just tell them your booking reference. You do not need to bring your vehicle log card or any identity document.",
+      "summary_source": "extractive",
+      "sections": [
+        "what-to-bring"
+      ],
+      "claim_count": 11,
+      "sample_claims": [
+        "When you drop off your car, please bring:",
+        "Your car key, plus the spare key if your car has a keyless or immobiliser system that needs it",
+        "Your service booklet, if you have one, so we can stamp it"
+      ]
+    },
+    {
+      "community_id": "c010",
+      "key": "L0:e020|e021|e022",
+      "level": 0,
+      "members": [
+        "e020",
+        "e021",
+        "e022"
+      ],
+      "size": 3,
+      "title": "Payment methods, PayNow, NETS",
+      "summary": "We do not accept cash payments above SGD 500, and we do not accept cheques. If anyone claiming to be from Kallang Auto Care asks for your card number, please do not share it and call our service desk directly. A detailed invoice is emailed to you after payment, listing all work done and parts used.",
+      "summary_source": "extractive",
+      "sections": [
+        "payment-methods"
+      ],
+      "claim_count": 10,
+      "sample_claims": [
+        "We accept payment when you collect your car.",
+        "Payment methods:",
+        "PayNow to our UEN (shown on your invoice)"
+      ]
+    },
+    {
+      "community_id": "c011",
+      "key": "L0:e023|e024|e025",
+      "level": 0,
+      "members": [
+        "e023",
+        "e024",
+        "e025"
+      ],
+      "size": 3,
+      "title": "Visa, Mastercard, American Express",
+      "summary": "Visa, Mastercard and American Express credit cards",
+      "summary_source": "extractive",
+      "sections": [
+        "payment-methods"
+      ],
+      "claim_count": 1,
+      "sample_claims": [
+        "Visa, Mastercard and American Express credit cards"
+      ]
+    },
+    {
+      "community_id": "c012",
+      "key": "L0:e026|e027|e028|e030",
+      "level": 0,
+      "members": [
+        "e026",
+        "e027",
+        "e028",
+        "e030"
+      ],
+      "size": 4,
+      "title": "Cancellation and no-show fees, Late cancellation fee, No-show fee, Rescheduling",
+      "summary": "Rescheduling less than 24 hours before is treated as a late cancellation and the SGD 20 fee applies, unless the new slot is on the same day. If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies. If your car is already with us and the job will take longer than expected, for example because a part needs to be ordered, our service advisor will call you with the new completion time before continuing.",
+      "summary_source": "extractive",
+      "sections": [
+        "cancellation-and-no-show-fees",
+        "rescheduling"
+      ],
+      "claim_count": 14,
+      "sample_claims": [
+        "You can cancel a booking free of charge up to 24 hours before the appointment time.",
+        "If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies.",
+        "If you do not turn up and do not tell us, a no-show fee of SGD 30 applies."
+      ]
+    },
+    {
+      "community_id": "c013",
+      "key": "L0:e031|e032|e033",
+      "level": 0,
+      "members": [
+        "e031",
+        "e032",
+        "e033"
+      ],
+      "size": 3,
+      "title": "Data and privacy notice, Data Protection Officer, Personal Data Protection Act",
+      "summary": "Kallang Auto Care collects only the personal data we need to manage your booking: your name, mobile number, email address and vehicle registration number. Your booking data is kept for 2 years after your last visit so we can keep your service history, and is then deleted. We use this data to confirm your booking, send reminders, contact you about your car during the service, and keep a service record for your vehicle.",
+      "summary_source": "extractive",
+      "sections": [
+        "data-and-privacy-notice"
+      ],
+      "claim_count": 9,
+      "sample_claims": [
+        "Kallang Auto Care collects only the personal data we need to manage your booking: your name, mobile number, email address and vehicle registration number.",
+        "We use this data to confirm your booking, send reminders, contact you about your car during the service, and keep a service record for your vehicle.",
+        "We do not sell your data and we do not use it for marketing unless you separately agree to receive offers."
+      ]
+    },
+    {
+      "community_id": "c014",
+      "key": "L1:e001",
+      "level": 1,
+      "members": [
+        "e001"
+      ],
+      "size": 1,
+      "title": "Opening hours",
+      "summary": "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm. The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing. Car collection: if your car is ready after we close, it stays safely inside the workshop overnight and you can collect it from 8:30am the next working day.",
+      "summary_source": "extractive",
+      "sections": [
+        "opening-hours"
+      ],
+      "claim_count": 8,
+      "sample_claims": [
+        "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm.",
+        "We are closed on Sundays and on Singapore public holidays.",
+        "The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing."
+      ]
+    },
+    {
+      "community_id": "c015",
+      "key": "L1:e002|e003|e004|e031|e032|e033",
+      "level": 1,
+      "members": [
+        "e002",
+        "e003",
+        "e004",
+        "e031",
+        "e032",
+        "e033"
+      ],
+      "size": 6,
+      "title": "Location and parking, Kallang Way, Kallang Auto Care, Data and privacy notice…",
+      "summary": "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988. Getting here without a car: the nearest MRT station is about a ten-minute walk away, and several bus services stop along Kallang Way. If our customer lots are full, the public car park at Block 90 is a two-minute walk away.",
+      "summary_source": "extractive",
+      "sections": [
+        "data-and-privacy-notice",
+        "location-and-parking",
+        "payment-methods"
+      ],
+      "claim_count": 21,
+      "sample_claims": [
+        "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988.",
+        "The entrance faces the main road; look for the blue Kallang Auto Care signboard above the shutter.",
+        "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo."
+      ]
+    },
+    {
+      "community_id": "c016",
+      "key": "L1:e005|e008|e009|e010|e015|e029",
+      "level": 1,
+      "members": [
+        "e005",
+        "e008",
+        "e009",
+        "e010",
+        "e015",
+        "e029"
+      ],
+      "size": 6,
+      "title": "Customer parking, Basic servicing package, EV and hybrid health check, Aircon servicing…",
+      "summary": "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours Most manufacturers recommend servicing every 10,000 km or every six months, whichever comes first. | Service | Price (SGD) | Typical time |\nService: Aircon servicing; Price (SGD): 150; Typical time: 1.5 hours",
+      "summary_source": "extractive",
+      "sections": [
+        "courtesy-car",
+        "ev-and-hybrid-servicing",
+        "location-and-parking",
+        "services-and-prices",
+        "servicing-packages"
+      ],
+      "claim_count": 41,
+      "sample_claims": [
+        "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo.",
+        "If our customer lots are full, the public car park at Block 90 is a two-minute walk away.",
+        "Parking charges there are paid through the usual parking system and are not covered by us."
+      ]
+    },
+    {
+      "community_id": "c017",
+      "key": "L1:e006|e007|e012|e013|e014",
+      "level": 1,
+      "members": [
+        "e006",
+        "e007",
+        "e012",
+        "e013",
+        "e014"
+      ],
+      "size": 5,
+      "title": "Tyre rotation and balancing, Services and prices, Interior detailing, Exterior detailing…",
+      "summary": "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Aircon servicing; Price (SGD): 150; Typical time: 1.5 hours",
+      "summary_source": "extractive",
+      "sections": [
+        "location-and-parking",
+        "services-and-prices",
+        "warranty"
+      ],
+      "claim_count": 21,
+      "sample_claims": [
+        "Short jobs such as tyre rotation can usually be completed while you wait.",
+        "All prices are in Singapore dollars and include 9% GST.",
+        "Prices are for standard passenger cars; larger SUVs and continental models may cost more, and our service advisor will tell you before any extra work starts."
+      ]
+    },
+    {
+      "community_id": "c018",
+      "key": "L1:e011|e016|e017",
+      "level": 1,
+      "members": [
+        "e011",
+        "e016",
+        "e017"
+      ],
+      "size": 3,
+      "title": "Brake pad replacement (front), Workmanship warranty, EV and hybrid servicing",
+      "summary": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. | Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours Our EV and hybrid health check (SGD 188) is carried out in a dedicated EV bay by technicians certified to work on high-voltage systems.",
+      "summary_source": "extractive",
+      "sections": [
+        "ev-and-hybrid-servicing",
+        "services-and-prices",
+        "servicing-packages",
+        "warranty"
+      ],
+      "claim_count": 24,
+      "sample_claims": [
+        "| Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours",
+        "Servicing your car with us does not affect your manufacturer warranty, as long as the service follows the manufacturer's schedule and uses parts of matching quality.",
+        "Electric and hybrid cars need fewer oil changes but still need regular checks."
+      ]
+    },
+    {
+      "community_id": "c019",
+      "key": "L1:e018",
+      "level": 1,
+      "members": [
+        "e018"
+      ],
+      "size": 1,
+      "title": "Warranty",
+      "summary": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. Parts we supply carry the parts manufacturer's warranty, which is usually 12 months. Please bring the car back to us rather than to another workshop, as repairs done elsewhere are not covered.",
+      "summary_source": "extractive",
+      "sections": [
+        "warranty"
+      ],
+      "claim_count": 9,
+      "sample_claims": [
+        "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first.",
+        "If a problem comes back because of our work within that period, we will fix it at no cost to you.",
+        "Parts we supply carry the parts manufacturer's warranty, which is usually 12 months."
+      ]
+    },
+    {
+      "community_id": "c020",
+      "key": "L1:e019",
+      "level": 1,
+      "members": [
+        "e019"
+      ],
+      "size": 1,
+      "title": "What to bring",
+      "summary": "The locking wheel nut key, if your car has locking wheel nuts (we cannot rotate or remove the wheels without it) If someone else will drop off or collect the car for you, just tell them your booking reference. You do not need to bring your vehicle log card or any identity document.",
+      "summary_source": "extractive",
+      "sections": [
+        "what-to-bring"
+      ],
+      "claim_count": 11,
+      "sample_claims": [
+        "When you drop off your car, please bring:",
+        "Your car key, plus the spare key if your car has a keyless or immobiliser system that needs it",
+        "Your service booklet, if you have one, so we can stamp it"
+      ]
+    },
+    {
+      "community_id": "c021",
+      "key": "L1:e020|e021|e022|e023|e024|e025",
+      "level": 1,
+      "members": [
+        "e020",
+        "e021",
+        "e022",
+        "e023",
+        "e024",
+        "e025"
+      ],
+      "size": 6,
+      "title": "Payment methods, PayNow, NETS, Visa…",
+      "summary": "We do not accept cash payments above SGD 500, and we do not accept cheques. If anyone claiming to be from Kallang Auto Care asks for your card number, please do not share it and call our service desk directly. A detailed invoice is emailed to you after payment, listing all work done and parts used.",
+      "summary_source": "extractive",
+      "sections": [
+        "payment-methods"
+      ],
+      "claim_count": 10,
+      "sample_claims": [
+        "We accept payment when you collect your car.",
+        "Payment methods:",
+        "PayNow to our UEN (shown on your invoice)"
+      ]
+    },
+    {
+      "community_id": "c022",
+      "key": "L1:e026|e027|e028|e030",
+      "level": 1,
+      "members": [
+        "e026",
+        "e027",
+        "e028",
+        "e030"
+      ],
+      "size": 4,
+      "title": "Cancellation and no-show fees, Late cancellation fee, No-show fee, Rescheduling",
+      "summary": "Rescheduling less than 24 hours before is treated as a late cancellation and the SGD 20 fee applies, unless the new slot is on the same day. If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies. If your car is already with us and the job will take longer than expected, for example because a part needs to be ordered, our service advisor will call you with the new completion time before continuing.",
+      "summary_source": "extractive",
+      "sections": [
+        "cancellation-and-no-show-fees",
+        "rescheduling"
+      ],
+      "claim_count": 14,
+      "sample_claims": [
+        "You can cancel a booking free of charge up to 24 hours before the appointment time.",
+        "If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies.",
+        "If you do not turn up and do not tell us, a no-show fee of SGD 30 applies."
+      ]
+    },
+    {
+      "community_id": "c023",
+      "key": "L2:e001",
+      "level": 2,
+      "members": [
+        "e001"
+      ],
+      "size": 1,
+      "title": "Opening hours",
+      "summary": "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm. The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing. Car collection: if your car is ready after we close, it stays safely inside the workshop overnight and you can collect it from 8:30am the next working day.",
+      "summary_source": "extractive",
+      "sections": [
+        "opening-hours"
+      ],
+      "claim_count": 8,
+      "sample_claims": [
+        "Our workshop is open Monday to Friday from 8:30am to 6:00pm, and on Saturday from 8:30am to 1:00pm.",
+        "We are closed on Sundays and on Singapore public holidays.",
+        "The last appointment slot on weekdays starts at 4:00pm, so that our technicians have time to finish the job and road-test your car before closing."
+      ]
+    },
+    {
+      "community_id": "c024",
+      "key": "L2:e002|e003|e004|e020|e021|e022|e023|e024|e025|e031|e032|e033",
+      "level": 2,
+      "members": [
+        "e002",
+        "e003",
+        "e004",
+        "e020",
+        "e021",
+        "e022",
+        "e023",
+        "e024",
+        "e025",
+        "e031",
+        "e032",
+        "e033"
+      ],
+      "size": 12,
+      "title": "Location and parking, Kallang Way, Kallang Auto Care, Payment methods…",
+      "summary": "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988. Getting here without a car: the nearest MRT station is about a ten-minute walk away, and several bus services stop along Kallang Way. If our customer lots are full, the public car park at Block 90 is a two-minute walk away.",
+      "summary_source": "extractive",
+      "sections": [
+        "data-and-privacy-notice",
+        "location-and-parking",
+        "payment-methods"
+      ],
+      "claim_count": 30,
+      "sample_claims": [
+        "We are at Block 88 Kallang Way 5, #01-23, Singapore 349988.",
+        "The entrance faces the main road; look for the blue Kallang Auto Care signboard above the shutter.",
+        "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo."
+      ]
+    },
+    {
+      "community_id": "c025",
+      "key": "L2:e005|e008|e009|e010|e011|e015|e016|e017|e029",
+      "level": 2,
+      "members": [
+        "e005",
+        "e008",
+        "e009",
+        "e010",
+        "e011",
+        "e015",
+        "e016",
+        "e017",
+        "e029"
+      ],
+      "size": 9,
+      "title": "Customer parking, Basic servicing package, EV and hybrid health check, Aircon servicing…",
+      "summary": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. | Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours",
+      "summary_source": "extractive",
+      "sections": [
+        "courtesy-car",
+        "ev-and-hybrid-servicing",
+        "location-and-parking",
+        "services-and-prices",
+        "servicing-packages",
+        "warranty"
+      ],
+      "claim_count": 62,
+      "sample_claims": [
+        "Customer parking: we have four customer lots directly in front of the workshop, marked with our logo.",
+        "If our customer lots are full, the public car park at Block 90 is a two-minute walk away.",
+        "Parking charges there are paid through the usual parking system and are not covered by us."
+      ]
+    },
+    {
+      "community_id": "c026",
+      "key": "L2:e006|e007|e012|e013|e014",
+      "level": 2,
+      "members": [
+        "e006",
+        "e007",
+        "e012",
+        "e013",
+        "e014"
+      ],
+      "size": 5,
+      "title": "Tyre rotation and balancing, Services and prices, Interior detailing, Exterior detailing…",
+      "summary": "| Service | Price (SGD) | Typical time |\nService: EV and hybrid health check; Price (SGD): 188; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Brake pad replacement (front); Price (SGD): 220; Typical time: 1.5 hours | Service | Price (SGD) | Typical time |\nService: Aircon servicing; Price (SGD): 150; Typical time: 1.5 hours",
+      "summary_source": "extractive",
+      "sections": [
+        "location-and-parking",
+        "services-and-prices",
+        "warranty"
+      ],
+      "claim_count": 21,
+      "sample_claims": [
+        "Short jobs such as tyre rotation can usually be completed while you wait.",
+        "All prices are in Singapore dollars and include 9% GST.",
+        "Prices are for standard passenger cars; larger SUVs and continental models may cost more, and our service advisor will tell you before any extra work starts."
+      ]
+    },
+    {
+      "community_id": "c027",
+      "key": "L2:e018",
+      "level": 2,
+      "members": [
+        "e018"
+      ],
+      "size": 1,
+      "title": "Warranty",
+      "summary": "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first. Parts we supply carry the parts manufacturer's warranty, which is usually 12 months. Please bring the car back to us rather than to another workshop, as repairs done elsewhere are not covered.",
+      "summary_source": "extractive",
+      "sections": [
+        "warranty"
+      ],
+      "claim_count": 9,
+      "sample_claims": [
+        "All workmanship carries a warranty of 6 months or 10,000 km, whichever comes first.",
+        "If a problem comes back because of our work within that period, we will fix it at no cost to you.",
+        "Parts we supply carry the parts manufacturer's warranty, which is usually 12 months."
+      ]
+    },
+    {
+      "community_id": "c028",
+      "key": "L2:e019",
+      "level": 2,
+      "members": [
+        "e019"
+      ],
+      "size": 1,
+      "title": "What to bring",
+      "summary": "The locking wheel nut key, if your car has locking wheel nuts (we cannot rotate or remove the wheels without it) If someone else will drop off or collect the car for you, just tell them your booking reference. You do not need to bring your vehicle log card or any identity document.",
+      "summary_source": "extractive",
+      "sections": [
+        "what-to-bring"
+      ],
+      "claim_count": 11,
+      "sample_claims": [
+        "When you drop off your car, please bring:",
+        "Your car key, plus the spare key if your car has a keyless or immobiliser system that needs it",
+        "Your service booklet, if you have one, so we can stamp it"
+      ]
+    },
+    {
+      "community_id": "c029",
+      "key": "L2:e026|e027|e028|e030",
+      "level": 2,
+      "members": [
+        "e026",
+        "e027",
+        "e028",
+        "e030"
+      ],
+      "size": 4,
+      "title": "Cancellation and no-show fees, Late cancellation fee, No-show fee, Rescheduling",
+      "summary": "Rescheduling less than 24 hours before is treated as a late cancellation and the SGD 20 fee applies, unless the new slot is on the same day. If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies. If your car is already with us and the job will take longer than expected, for example because a part needs to be ordered, our service advisor will call you with the new completion time before continuing.",
+      "summary_source": "extractive",
+      "sections": [
+        "cancellation-and-no-show-fees",
+        "rescheduling"
+      ],
+      "claim_count": 14,
+      "sample_claims": [
+        "You can cancel a booking free of charge up to 24 hours before the appointment time.",
+        "If you cancel less than 24 hours before the appointment, a late cancellation fee of SGD 20 applies.",
+        "If you do not turn up and do not tell us, a no-show fee of SGD 30 applies."
+      ]
+    }
+  ],
+  "usage": null
+}
