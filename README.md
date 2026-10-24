@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Track 2: Customer service chatbot with bookings
 
 **Client (fictional):** Kallang Auto Care, a car servicing workshop in Singapore.
@@ -92,3 +93,7 @@ The full rules for each step are in `docs/booking_flow_spec.md`. Read it before 
 ## Data provenance
 
 All data in this track is **synthetic**, created on 18 Oct 2026 for SMU Academy PCML Module 6. Kallang Auto Care is a fictional business: its address, prices, policies, availability and customers are invented. Names, plate numbers, NRIC-format and card-format numbers in the test conversations are made up for testing only, and email addresses use the reserved `example.com` domain. Any resemblance to real businesses or people is coincidental.
+=======
+# track2_service_chatbot
+Service chatbot project
+>>>>>>> origin/main
